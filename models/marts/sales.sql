@@ -36,4 +36,4 @@ group by
     o.o_orderdate, 
     c.c_mktsegment
 
--- Esto es solo un comentario
+-- Esto es solo un comentario de prueba

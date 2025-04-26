@@ -35,3 +35,5 @@ group by
     n.n_name, 
     o.o_orderdate, 
     c.c_mktsegment
+
+-- Esto es solo un comentario
